@@ -2,3 +2,4 @@ streamlit
 edge-tts
 git+https://github.com/jiaaro/pydub.git
 pdfplumber
+ffmpeg
