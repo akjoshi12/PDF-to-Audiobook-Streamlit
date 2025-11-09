@@ -1,3 +1,4 @@
+python_version == "3.12"
 streamlit
 edge-tts
 git+https://github.com/jiaaro/pydub.git
